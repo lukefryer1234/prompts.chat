@@ -1,0 +1,9 @@
+prepare a well defined proposal for prompts.chat (this project) this: "https://github.com/aaif/project-proposals/blob/main/.github/ISSUE_TEMPLATE/project-proposal.yml" (no emdashes, make it humanified)
+
+---
+
+does it apply to this? https://github.com/aaif/project-proposals/blob/main/governance/project-lifecycle-policy.md
+
+---
+
+add related MD files, add dual-license (mit + cc0), state plans for comms and tc sponsor.
